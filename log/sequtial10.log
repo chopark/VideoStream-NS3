@@ -1,0 +1,7 @@
+Waf: Entering directory `/data/chanho/coursework/ACN/workspace/origin_ns-3-allinone/ns-3.30/build'
+Waf: Leaving directory `/data/chanho/coursework/ACN/workspace/origin_ns-3-allinone/ns-3.30/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.606s)
+assert failed. cond="m_bounds.IsInside (position)", file=../src/mobility/model/random-walk-2d-mobility-model.cc, line=168
+terminate called without an active exception
+Command ['/data/chanho/coursework/ACN/workspace/origin_ns-3-allinone/ns-3.30/build/scratch/videoStreamer/videoStreamer'] terminated with signal SIGIOT. Run it under a debugger to get more information (./waf --run <program> --command-template="gdb --args %s <args>").
